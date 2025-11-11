@@ -221,9 +221,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Cyb0rg-cod3r783](https://github.com/Cyb0rg-cod3r783)
+- LinkedIn: [Tejas Bhosale](https://www.linkedin.com/in/tejas-bhosale-6880b735b/)
+- Email: cyborgcoder783@gmail.com
 
 ## 🙏 Acknowledgments
 
